@@ -11,7 +11,7 @@ Yeah, I'm serious. This was originally a part of my other project, [Good Night M
 
 ## Is this font ready for production?
 
-*No*. But I'm working on it.
+*Maybe*. I'm working on it.
 
 ## Specimen?
 
