@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="480"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <component base="dot" xOffset="200" yOffset="700"/>
+    <component base="dot" xOffset="100" yOffset="800"/>
+    <component base="dot" yOffset="700"/>
+    <contour>
+      <point x="90" y="700" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-27 06:26:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

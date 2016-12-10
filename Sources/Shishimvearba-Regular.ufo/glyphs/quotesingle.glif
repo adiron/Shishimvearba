@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="1">
+  <advance width="380"/>
+  <unicode hex="0027"/>
+  <outline>
+    <component base="dot" yOffset="700"/>
+    <component base="dot" xOffset="100" yOffset="500"/>
+    <component base="dot" xOffset="100" yOffset="700"/>
+    <component base="dot" xOffset="100" yOffset="600"/>
+    <component base="dot" yOffset="600"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-27 06:26:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

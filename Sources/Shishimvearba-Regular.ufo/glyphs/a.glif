@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="1">
+  <advance width="720"/>
+  <unicode hex="0061"/>
+  <outline>
+    <component base="dot" xOffset="-60" yOffset="100"/>
+    <component base="dot" xOffset="40"/>
+    <component base="dot" xOffset="140"/>
+    <component base="dot" xOffset="240"/>
+    <component base="dot" xOffset="340"/>
+    <component base="dot" xOffset="440"/>
+    <component base="dot" xOffset="440" yOffset="100"/>
+    <component base="dot" xOffset="340" yOffset="100"/>
+    <component base="dot" xOffset="40" yOffset="200"/>
+    <component base="dot" xOffset="140" yOffset="200"/>
+    <component base="dot" xOffset="240" yOffset="200"/>
+    <component base="dot" xOffset="340" yOffset="200"/>
+    <component base="dot" xOffset="440" yOffset="200"/>
+    <component base="dot" xOffset="440" yOffset="300"/>
+    <component base="dot" xOffset="340" yOffset="300"/>
+    <component base="dot" xOffset="340" yOffset="400"/>
+    <component base="dot" xOffset="240" yOffset="400"/>
+    <component base="dot" xOffset="140" yOffset="400"/>
+    <component base="dot" xOffset="40" yOffset="400"/>
+    <component base="dot" xOffset="40" yOffset="100"/>
+    <contour>
+      <point x="540" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="240" y="600" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-30 14:32:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

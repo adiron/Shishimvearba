@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="580"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <component base="dot" yOffset="600"/>
+    <component base="dot" xOffset="100" yOffset="700"/>
+    <component base="dot" xOffset="200" yOffset="600"/>
+    <component base="dot" xOffset="300" yOffset="700"/>
+    <contour>
+      <point x="200" y="600" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-27 06:26:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

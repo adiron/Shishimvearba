@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="480"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <component base="dot" yOffset="700"/>
+    <component base="dot" xOffset="100" yOffset="800"/>
+    <component base="dot" xOffset="200" yOffset="700"/>
+    <component base="dot" xOffset="100" yOffset="600"/>
+    <contour>
+      <point x="100" y="600" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-27 06:26:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

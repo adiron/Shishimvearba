@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="1">
+  <advance width="1180"/>
+  <unicode hex="0153"/>
+  <outline>
+    <component base="o"/>
+    <component base="dot" xOffset="400" yOffset="100"/>
+    <component base="dot" xOffset="400" yOffset="200"/>
+    <component base="dot" xOffset="400" yOffset="300"/>
+    <component base="dot" xOffset="500" yOffset="100"/>
+    <component base="dot" xOffset="500" yOffset="200"/>
+    <component base="dot" xOffset="500" yOffset="300"/>
+    <component base="dot" xOffset="600"/>
+    <component base="dot" xOffset="700"/>
+    <component base="dot" xOffset="800"/>
+    <component base="dot" xOffset="600" yOffset="400"/>
+    <component base="dot" xOffset="700" yOffset="400"/>
+    <component base="dot" xOffset="800" yOffset="400"/>
+    <component base="dot" xOffset="900" yOffset="300"/>
+    <component base="dot" xOffset="900" yOffset="200"/>
+    <component base="dot" xOffset="800" yOffset="200"/>
+    <component base="dot" xOffset="700" yOffset="200"/>
+    <component base="dot" xOffset="600" yOffset="200"/>
+    <contour>
+      <point x="990" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="690" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="690" y="600" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-12-10 09:32:37 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=e</string>
+    </dict>
+  </lib>
+</glyph>

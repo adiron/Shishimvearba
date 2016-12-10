@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="580"/>
+  <unicode hex="005F"/>
+  <outline>
+    <component base="dot"/>
+    <component base="dot" xOffset="100"/>
+    <component base="dot" xOffset="200"/>
+    <component base="dot" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-27 06:26:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

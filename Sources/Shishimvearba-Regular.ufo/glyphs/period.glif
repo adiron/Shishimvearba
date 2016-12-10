@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="1">
+  <advance width="380"/>
+  <unicode hex="002E"/>
+  <outline>
+    <component base="dot"/>
+    <component base="dot" xOffset="100"/>
+    <component base="dot" xOffset="100" yOffset="100"/>
+    <component base="dot" yOffset="100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-27 06:26:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>
